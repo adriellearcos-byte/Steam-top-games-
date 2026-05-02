@@ -206,3 +206,7 @@ st.markdown("""
     Dataset source: <a href="https://www.kaggle.com/datasets/patelris/steam-top-1495-games-dataset" target="_blank">Kaggle: Steam Top Games</a>
 </div>
 """, unsafe_allow_html=True)
+# Footer (IMPORTANT FOR GRADING)
+st.markdown("---")
+st.caption("Data Source: https://www.kaggle.com/datasets/patelris/steam-top-1495-games-dataset?resource=download")
+st.caption("Team Members: Adrielle Arcos, Charmaine Cachila, Ralph Ilarde")
